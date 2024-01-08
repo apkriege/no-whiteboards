@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	t "github.com/poteto/hiring-without-whiteboards/types"
+	t "github.com/apkreige/no-whiteboards/types"
 
 	"github.com/google/go-github/github"
 )
